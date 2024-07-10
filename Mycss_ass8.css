@@ -1,0 +1,37 @@
+.first{
+    height: 100px;
+    width: 100%;
+    float: left;
+    background-color: green;
+}
+.sec{
+    height: 300px;
+    width: 33.33%;
+    float: left;
+    background-color: yellow;
+}
+
+.third{
+    height: 300px;
+    width: 33.33%;
+    float: left;
+    background-color: blue;
+
+}
+
+
+.fourth{
+    height: 300px;
+    width: 33.33%;
+    float: left;
+    background-color: crimson;
+
+}
+
+.fifth{
+    height: 250px;
+    width: 100%;
+    float: left;
+    background-color: red;
+
+}

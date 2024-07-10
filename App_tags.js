@@ -58,7 +58,7 @@ function App() {
           <td>active</td>
           <td>
             <button>edit</button>
-            <button>edit</button>
+            <button>delete</button>
           </td>
         </tr>
 
@@ -72,7 +72,7 @@ function App() {
           <td>active</td>
           <td>
             <button>edit</button>
-            <button>edit</button>
+            <button>delete</button>
           </td>
         </tr>
       
@@ -86,7 +86,7 @@ function App() {
           <td>active</td>
           <td>
             <button>edit</button>
-            <button>edit</button>
+            <button>delete</button>
           </td>
         </tr>
       
@@ -100,7 +100,7 @@ function App() {
           <td>not active</td>
           <td>
             <button>edit</button>
-            <button>edit</button>
+            <button>delete</button>
           </td>
         </tr>
       
@@ -114,7 +114,7 @@ function App() {
           <td>active</td>
           <td>
             <button>edit</button>
-            <button>edit</button>
+            <button>delete</button>
           </td>
         </tr>
       
@@ -128,7 +128,7 @@ function App() {
           <td>active</td>
           <td>
             <button>edit</button>
-            <button>edit</button>
+            <button>delete</button>
           </td>
         </tr>
       
@@ -142,7 +142,7 @@ function App() {
           <td>active</td>
           <td>
             <button>edit</button>
-            <button>edit</button>
+            <button>delete</button>
           </td>
           </tr>
       
@@ -156,7 +156,7 @@ function App() {
           <td>not active</td>
           <td>
             <button>edit</button>
-            <button>edit</button>
+            <button>delete</button>
           </td>
         </tr>
       
@@ -170,7 +170,7 @@ function App() {
           <td>active</td>
           <td>
             <button>edit</button>
-            <button>edit</button>
+            <button>delete</button>
           </td>
         </tr>
       
@@ -184,7 +184,7 @@ function App() {
           <td>not active</td>
           <td>
             <button>edit</button>
-            <button>edit</button>
+            <button>delete</button>
           </td>
         </tr>
       </tbody>

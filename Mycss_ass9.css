@@ -1,0 +1,91 @@
+.first{
+    height: 100px;
+    width: 33.33%;
+    float: left;
+    background-color: rgb(216, 108, 101);
+}
+.sec{
+    height: 100px;
+    width: 33.33%;
+    float: left;
+    background-color: rgb(17, 252, 17);
+}
+
+.third{
+    height: 100px;
+    width:33.33%;
+    float: left;
+    background-color: rgb(84, 27, 122);
+
+}
+
+
+.fourth{
+    height: 150px;
+    width: 40%;
+    float: left;
+    background-color: greenyellow;
+
+}
+
+.fifth{
+    height: 150px;
+    width: 60%;
+    float: left;
+    background-color: red;
+
+}
+.sixth{
+    height: 300px;
+    width: 20%;
+    float: left;
+    background-color: rgb(235, 36, 82);
+
+}
+.seventh{
+    height: 300px;
+    width: 60%;
+    float: left;
+    background-color: rgb(206, 134, 45);
+
+}
+
+.eighth{
+    height: 300px;
+    width:20%;
+    float: left;
+    background-color: purple;
+
+}
+
+.nineth{
+    height: 200px;
+    width: 25%;
+    float: left;
+    background-color: green;
+
+}
+
+.tenth{
+    height: 200px;
+    width: 25%;
+    float: left;
+    background-color: rgb(83, 9, 59);
+
+}
+
+.eleventh{
+    height: 200px;
+    width: 25%;
+    float: left;
+    background-color: rgb(226, 213, 213);
+
+}
+
+.twelveth{
+    height: 200px;
+    width: 25%;
+    float: left;
+    background-color: rgb(223, 163, 84);
+
+}

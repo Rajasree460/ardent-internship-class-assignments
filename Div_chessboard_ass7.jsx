@@ -7,19 +7,6 @@ const Division = () =>{
         <>
             <div className="first">
 
-
-            </div>
-            <div className="sec">
-
-
-            </div>
-            <div className="first">
-
-
-            </div>
-            <div className="sec">
-
-
             </div>
             <div className="sec">
 
@@ -37,7 +24,7 @@ const Division = () =>{
 
 
             </div>
-            <div className="sirst">
+            <div className="sec">
 
 
             </div>
@@ -59,7 +46,6 @@ const Division = () =>{
             </div>
             <div className="sec">
 
-
             </div>
             <div className="first">
 
@@ -70,53 +56,6 @@ const Division = () =>{
 
             </div>
             <div className="first">
-
-
-            </div>
-            <div className="first">
-
-
-            </div>
-            <div className="sec">
-
-
-            </div>
-            <div className="first">
-
-
-            </div>
-            <div className="sec">
-
-
-            </div>
-            <div className="sec">
-
-
-            </div>
-            <div className="first">
-
-
-            </div>
-            <div className="sec">
-
-
-            </div>
-            <div className="first">
-
-
-            </div><div className="first">
-
-
-            </div>
-            <div className="sec">
-
-
-            </div>
-            <div className="first">
-
-
-            </div>
-            <div className="sec">
 
 
             </div>
@@ -136,6 +75,248 @@ const Division = () =>{
 
 
             </div>
+            <div className="sec">
+
+
+            </div>
+            <div className="first">
+
+
+            </div>
+            <div className="first">
+
+            </div>
+            <div className="sec">
+
+
+            </div>
+            <div className="first">
+
+
+            </div>
+            <div className="sec">
+
+
+            </div>
+            <div className="first">
+
+
+            </div>
+            <div className="sec">
+
+
+            </div>
+            <div className="first">
+
+
+            </div>
+            <div className="sec">
+
+
+            </div>
+            <div className="first">
+
+
+            </div>
+            <div className="sec">
+
+
+            </div>
+            <div className="sec">
+
+            </div>
+            <div className="first">
+
+
+            </div>
+            <div className="sec">
+
+
+            </div>
+            <div className="first">
+
+
+            </div>
+            <div className="sec">
+
+
+            </div>
+            <div className="first">
+
+
+            </div>
+            <div className="sec">
+
+
+            </div>
+            <div className="first">
+
+
+            </div>
+            <div className="sec">
+
+
+            </div>
+            <div className="first">
+
+
+            </div>
+            <div className="first">
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="sec">
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="first">
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="sec">
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="first">
+
+
+</div>
+<div className="sec">
+
+
+</div>
+<div className="first">
+
+
+</div>
         </>
     )
 }

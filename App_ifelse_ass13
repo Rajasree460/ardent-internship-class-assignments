@@ -1,0 +1,27 @@
+import React from 'react';
+//import './App.css';
+//import Gatepass from './components/Gatepass';
+
+let str = 'sunday';
+let print = "";
+let imgSrc = "";
+
+
+if (str === 'sunday') {
+  print = "Today is holiday so I will go to watch a movie";
+  imgSrc = '/img/sun.jpg';
+} else {
+  print = 'Today is office';
+  imgSrc = '/img/ofc.jpg';
+}
+
+function App() {
+  return (
+    <div className="App">
+      <h1>{print}</h1>
+      <img src={imgSrc} alt="img" />
+    </div>
+  );
+}
+
+export default App;

@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
         <Prop
-          boots = <Boots/> //boots is a key
+          boots = <Boots/> //boots is a key, parent to child calling
         />
     </div>
   );

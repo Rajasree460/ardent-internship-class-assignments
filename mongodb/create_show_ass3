@@ -1,0 +1,34 @@
+> use july
+switched to db july
+> db.julybatch.insertOne({emp:'aa',sal:'10000',dept:'IT'})
+{
+        "acknowledged" : true,
+        "insertedId" : ObjectId("66a775c6a141e25740ea9efb")
+}
+> db.julybatch.insertOne({emp:'bb',sal:'20000',dept:'IT'})
+{
+        "acknowledged" : true,
+        "insertedId" : ObjectId("66a775d2a141e25740ea9efc")
+}
+> db.julybatch.insertOne({emp:'cc',sal:'70000',dept:'sales'})
+{
+        "acknowledged" : true,
+        "insertedId" : ObjectId("66a775dea141e25740ea9efd")
+}
+> db.julybatch.insertOne({emp:'ee',sal:'50000',dept:'sales'})
+{
+        "acknowledged" : true,
+        "insertedId" : ObjectId("66a775e9a141e25740ea9efe")
+}
+> db.julybatch.insertOne({emp:'ff',sal:'30000',dept:'IT'})
+{
+        "acknowledged" : true,
+        "insertedId" : ObjectId("66a775f9a141e25740ea9eff")
+}
+> db.julybatch.find({sal:'50000'}).pretty()
+{
+        "_id" : ObjectId("66a775e9a141e25740ea9efe"),
+        "emp" : "ee",
+        "sal" : "50000",
+        "dept" : "sales"
+}

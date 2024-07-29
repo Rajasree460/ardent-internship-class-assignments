@@ -1,0 +1,1 @@
+db.julybatch.insertMany([{name:'aa', skill:'c', status:'Deactive'},{name:'bb', skill:'c++', status:'Deactive'},{name:'cc', skill:'java', status:'Active'},{name:'dd', skill:'c#', status:'Active'},{name:'ee', skill:'python', status:'Active'}])

@@ -1,0 +1,2 @@
+db.julybatch.deleteMany({status:'Not Active'})
+{ "acknowledged" : true, "deletedCount" : 1 }

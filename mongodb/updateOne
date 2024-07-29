@@ -1,0 +1,2 @@
+ db.julybatch.updateOne({emp:'cc'}, {$set: {sal:'90000' }})
+{ "acknowledged" : true, "matchedCount" : 1, "modifiedCount" : 1 }

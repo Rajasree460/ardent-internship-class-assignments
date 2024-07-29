@@ -1,0 +1,27 @@
+use july
+switched to db july
+> db.julybatch.insertOne({name:'abc', skill:'Full stack developer', status:'Active'})
+{
+        "acknowledged" : true,
+        "insertedId" : ObjectId("66a7713b7f31a82d922a9e2e")
+}
+> db.julybatch.insertOne({name:'def', skill:'Full stack developer', status:'Active'})
+{
+        "acknowledged" : true,
+        "insertedId" : ObjectId("66a7713b7f31a82d922a9e2e")
+}
+> db.julybatch.insertOne({name:'ghi', skill:'Full stack developer', status:'Active'})
+{
+        "acknowledged" : true,
+        "insertedId" : ObjectId("66a771457f31a82d922a9e2f")
+}
+> db.julybatch.insertOne({name:'AA', skill:'Full stack developer', status:'Active'})
+{
+        "acknowledged" : true,
+        "insertedId" : ObjectId("66a7714c7f31a82d922a9e30")
+}
+> db.julybatch.insertOne({name:'BB', skill:'Full stack developer', status:'Not Active'})
+{
+        "acknowledged" : true,
+        "insertedId" : ObjectId("66a7715b7f31a82d922a9e31")
+}

@@ -1,0 +1,31 @@
+ db.julybatch.find().pretty()
+{
+        "_id" : ObjectId("66a7707b77ac7d1e45700234"),
+        "name" : "abc",
+        "skill" : "Full stack developer",
+        "status" : "Active"
+}
+{
+        "_id" : ObjectId("66a7713b7f31a82d922a9e2e"),
+        "name" : "def",
+        "skill" : "Full stack developer",
+        "status" : "Active"
+}
+{
+        "_id" : ObjectId("66a771457f31a82d922a9e2f"),
+        "name" : "ghi",
+        "skill" : "Full stack developer",
+        "status" : "Active"
+}
+{
+        "_id" : ObjectId("66a7714c7f31a82d922a9e30"),
+        "name" : "AA",
+        "skill" : "Full stack developer",
+        "status" : "Active"
+}
+{
+        "_id" : ObjectId("66a7715b7f31a82d922a9e31"),
+        "name" : "BB",
+        "skill" : "Full stack developer",
+        "status" : "Not Active"
+}
